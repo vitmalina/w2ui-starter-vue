@@ -1,0 +1,19 @@
+{
+  "name": "w2ui-starter-vue",
+  "version": "1.0.0",
+  "description": "`Work in progress... not ready yet`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitmalina/w2ui-starter-vue.git"
+  },
+  "author": "Vitali Malinouski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vitmalina/w2ui-starter-vue/issues"
+  },
+  "homepage": "https://github.com/vitmalina/w2ui-starter-vue#readme"
+}
